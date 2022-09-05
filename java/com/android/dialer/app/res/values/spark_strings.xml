@@ -15,6 +15,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
     <!-- Preference titles -->
     <string name="other_settings_label">Other settings</string>
 
@@ -36,4 +37,10 @@
     <!-- Dialer postcall -->
     <string name="enable_post_call_title">Post call snackbar</string>
     <string name="enable_post_call_summary">Enable post call notifications at the bottom of screen</string>
+
+    <!-- Disable Proximity Options -->
+    <string name="disable_proximity_sensor_title">Disable proximity sensor</string>
+    <string name="disable_proximity_sensor_summary">Do not turn off touchscreen and display in call based on proximity sensor</string>
+    <string name="sensor_settings_titile">Sensors</string>
+
 </resources>
